@@ -1,0 +1,14 @@
+---
+title: "index"
+author: "Bivin"
+date: "4/2/2019"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+#Yeah!
+## R Markdown
+What's Up!!!???
+Whamo!
