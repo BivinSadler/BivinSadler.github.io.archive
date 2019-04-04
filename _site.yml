@@ -8,3 +8,5 @@ navbar:
       href: about.html
     - text: "Cars"
       href: Cars.html
+    - text: "Shiny"
+      href: RShiny_App_1.html
