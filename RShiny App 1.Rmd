@@ -11,7 +11,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 ## Rshiny Test
-This is a test of an RShiny app in RMarkdown
+Whamo!
 
 ```{r }
 library(shiny)
