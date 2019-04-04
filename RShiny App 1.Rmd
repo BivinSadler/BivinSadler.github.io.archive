@@ -3,6 +3,7 @@ title: "testShiny"
 author: "Bivin"
 date: "4/3/2019"
 output: html_document
+runtime: shiny
 ---
 
 ```{r setup, include=FALSE}
