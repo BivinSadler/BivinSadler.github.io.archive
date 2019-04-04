@@ -251,7 +251,7 @@ $(document).ready(function () {
 
 <script>
 $(document).ready(function () {
-  window.buildTabsets("TOC");
+  window.buildTabsets("section-TOC");
 });
 
 $(document).ready(function () {
@@ -299,7 +299,7 @@ $(document).ready(function () {
   </div><!--/.container -->
 </div><!--/.navbar -->
 
-<div class="fluid-row" id="header">
+<div class="fluid-row" id="section-header">
 
 
 
@@ -310,9 +310,9 @@ $(document).ready(function () {
 </div>
 
 
-<div id="rshiny-test" class="section level2">
+<div id="section-rshiny-test" class="section level2">
 <h2>Rshiny Test</h2>
-<p>This is a test of an RShiny app in RMarkdown</p>
+<p>Whamo!</p>
 <pre class="r"><code>library(shiny)
 
 ui &lt;- fluidPage(
@@ -372,7 +372,7 @@ server &lt;- function(input, output) {
 
 
 shinyApp(ui, server)</code></pre>
-<div style="width: 100% ; height: 400px ; text-align: center; box-sizing: border-box; -moz-box-sizing: border-box; -webkit-box-sizing: border-box;" class="muted well">Shiny applications not supported in static R Markdown documents</div>
+<iframe data-deferred-src="app12a12e1d37ef4537f807f8918b4d73d1/?w=&amp;__subapp__=1" width="100%" height="400" class="shiny-frame shiny-frame-deferred"></iframe>
 </div>
 
 
