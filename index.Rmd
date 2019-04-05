@@ -1,0 +1,15 @@
+---
+title: "My Website"
+author: "Bivin"
+date: "4/4/2019"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# My Website!
+## This is the home page
+### Happy April 4!
+MSDS!!!!
