@@ -9,6 +9,8 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
+![Bivin Sadler](Sadler.jpg)
+
 # My Website!
 ## This is the home page
 ### Happy April 4!
