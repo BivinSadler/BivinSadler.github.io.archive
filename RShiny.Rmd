@@ -1,0 +1,12 @@
+---
+title: "RShiny Apps"
+author: "Bivin Sadler"
+date: "11/14/2019"
+output: html_document
+---
+
+
+Old Faithful: https://ddsshiny.shinyapps.io/Faithful/
+
+FIFA PLAYER AGES:  https://ddsshiny.shinyapps.io/FIFAPlayerData/
+
